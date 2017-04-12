@@ -1,16 +1,17 @@
-##基于cooking生成的React脚手架
+## 基于cooking生成的React脚手架
 
-###step 1 安装cooking命令行工具
+### step 1 安装cooking命令行工具
 
 ```
 npm install cooking-cli -g
 ```
 
 
-###step 2
+### step 2
 
 ```
 npm install
+
 ```
 
 ps:推荐用cnpm
